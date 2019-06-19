@@ -2,9 +2,7 @@
                 Autor: Edgard Jose Diaz Tipacamu
 		e.diaz@nartsoft.com.mx
 		27 de febrero de 2019
-
-		ediaz@tamps.cinvestav.mx
-
+		
 		Este codigo implementa el algoritmo de huffman para realizar
 		la compresion de un un archivo de texto plano. para ello se
 		genera un archivo el cual contiene las probabilidades de cada
