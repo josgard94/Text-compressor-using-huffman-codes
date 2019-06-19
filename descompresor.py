@@ -1,11 +1,7 @@
 """
-	Centro de Estudios Avanzados y Tecnologicos del IPN
-			  Codificacion y compresion de datos
-
-				  Edgard Jose Diaz Tipacamu
-
+	Autor: Edgard Jose Diaz Tipacamu
+	e.diaz@nartsoft.com.mx
 	27 de febrero de 2019
-	ediaz@tamps.cinvestav.mx
 	Este codigo fuente realiza la descompresion, de un archivo comprimido usando el
 	programa compresor.py
 
