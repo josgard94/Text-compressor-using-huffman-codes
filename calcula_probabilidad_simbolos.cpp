@@ -1,20 +1,18 @@
 /*
-*	Centro de Investigacion y Estudios Avanzados del IPN
 *	Edgard Jose Diaz Tipacamu
-*	ediaz@ctamps.cinvestav.mx
+*	e.diaz@nartsoft.com.mx
 *	
 *	Febrero 04 de 2019
-*   Modificado: 26 de febrero de 2019
 *
-*   Readme: Compilar este archivo desde consola usando la siguiente sintaxis
+*       Readme: Compilar este archivo desde consola usando la siguiente sintaxis
 *
-*           g++ calcula_probabilidades_simbolo.txt -o NAME_EJECUTABLE (usar .exe para windows)
+*       g++ calcula_probabilidades_simbolo.txt -o NAME_EJECUTABLE (usar .exe para windows)
 *
-*   ejecucion: Para le ejecucion pasar como argumento el nombre o ruta del archivo de texto
-*   al que se le desea calcular  la probabilidad de los simbolos, usar la siguinte sintaxis.
+*       ejecucion: Para le ejecucion pasar como argumento el nombre o ruta del archivo de texto
+*       al que se le desea calcular  la probabilidad de los simbolos, usar la siguinte sintaxis.
 *       
-*          Ubuntu:  ./NAME_EJECUTABLE  NAME_ARCHIVO.txt
-*          windows   NAME_EJECUTABLE   NAME_ARCHIVO.txt
+*       Ubuntu:  ./NAME_EJECUTABLE  NAME_ARCHIVO.txt
+*       windows   NAME_EJECUTABLE   NAME_ARCHIVO.txt
 *
 */
 #include<iostream>
